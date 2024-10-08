@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.Bt53DRYp.js";const m=JSON.parse('{"title":"科技数码","description":"","frontmatter":{"title":"科技数码","tags":["科技数码"]},"headers":[],"relativePath":"03-Tech/index.md","filePath":"03-Tech/index.md"}'),n={name:"03-Tech/index.md"};function c(r,o,s,i,d,p){return a(),t("div")}const f=e(n,[["render",c]]);export{m as __pageData,f as default};
